@@ -28,6 +28,18 @@ pip install pandas matplotlib jupyter
 
 Probado con Python 3.14.
 
+### Organización de los archivos
+
+Al terminar la instalación, la carpeta debe verse así, con el notebook junto a la carpeta `aima-python`.
+
+```
+carpeta/
+├── AgenteWatchdog.ipynb
+└── aima-python/
+    ├── aima/
+    └── ...
+```
+
 ## Ejecución
 
 Desde la carpeta de trabajo, abre el notebook y ejecuta todas las celdas en orden (Kernel, Restart & Run All):
